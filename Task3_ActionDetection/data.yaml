@@ -1,0 +1,7 @@
+names:
+- dribble
+- fall_floor
+nc: 2
+path: /home/user/YOLO_Assignment/Task_3/yolo_dataset
+train: images/train
+val: images/val

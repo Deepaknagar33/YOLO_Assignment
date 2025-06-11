@@ -1,0 +1,7 @@
+names:
+- space-empty
+- space-occupied
+nc: 2
+test: /home/user/YOLO_Assignment/Task_1/Dataset/dataset_yolo/test/images
+train: /home/user/YOLO_Assignment/Task_1/Dataset/dataset_yolo/train/images
+val: /home/user/YOLO_Assignment/Task_1/Dataset/dataset_yolo/valid/images

@@ -1,0 +1,19 @@
+# Core model and runtime
+onnx==1.15.0
+onnxruntime==1.17.0
+onnxruntime-tools==1.9.0
+
+# YOLOv8 export (Ultralytics)
+ultralytics==8.1.37  # or latest stable version
+
+# Image handling
+opencv-python==4.8.1.78
+Pillow==10.2.0
+
+# System metrics
+psutil==5.9.6
+GPUtil==1.4.0
+
+# Optional: For Jupyter integration
+notebook
+ipykernel
